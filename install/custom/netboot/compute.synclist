@@ -1,0 +1,5 @@
+/etc/slurm/slurm.conf -> /etc/slurm/slurm.conf
+/etc/passwd -> /etc/passwd
+/etc/group -> /etc/group
+/etc/shadow -> /etc/shadow
+/etc/munge/munge.key -> /etc/munge/munge.key

@@ -1,0 +1,8 @@
+# note: hostnames and ip addresses are replaced by variables in this file
+
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+EXTERNAL_IP HOSTNAME
+INTERNAL_IP HOSTNAME.localdomain HOSTNAME
+COMPUTE_INTERNAL_IP COMPUTE_NODE_NAME
+IB_COMPUTE_IP COMPUTE_NODE_NAME-ib0
